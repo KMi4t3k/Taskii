@@ -1,0 +1,6 @@
+{
+  "name": "Taskii",
+  "description": "Cross-platform calendar, flexible time-blocking task scheduler, smart reminders, planned vs actual time tracking, and routine patterns for iOS and Windows.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
